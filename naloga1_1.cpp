@@ -3,8 +3,10 @@
 using namespace std;
 int main() {
 
-    cout<<"Hello world!";
-                            //hello
+    int a,b,c;
+    cout<<" Vpisi stevilko: ";
+    cin>>a>>b>>c;
+    cout<<a+b+c<<endl;
 
     return 0;
 }
